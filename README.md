@@ -1,5 +1,5 @@
 # PortSwigger Lab — User Role Controlled by Request Parameter
-![link do laboratório](https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter)
+[site lab](https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter)
 
 ## Sobre o projeto
 
