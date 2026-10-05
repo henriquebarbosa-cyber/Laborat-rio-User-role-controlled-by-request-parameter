@@ -167,25 +167,25 @@ Ambiente utilizado para realizar o laboratório em um cenário controlado.
 
 ### 1. Login e interceptação
 
-![Login e interceptação](evidencias/01-login-interceptacao.png)
+![Login e interceptação](login-interceptado.PNG)
 
 Primeiro, foi realizado o login com o usuário fornecido pelo laboratório e a requisição foi interceptada pelo Burp Suite.
 
 ### 2. Acesso ao painel administrativo
 
-![Acesso ao painel administrativo](evidencias/02-acesso-admin.PNG)
+![Acesso ao painel administrativo](acesso-admin.PNG)
 
 Após a alteração do parâmetro de privilégio, foi possível acessar a área administrativa.
 
 ### 3. Exclusão do usuário Carlos
 
-![Exclusão do usuário Carlos](evidencias/03-exclusao-carlos.PNG)
+![Exclusão do usuário Carlos](exclusao-carlos.PNG)
 
 A requisição de exclusão foi interceptada e analisada no Burp Suite.
 
 ### 4. Laboratório solucionado
 
-![Laboratório solucionado](evidencias/04-lab-resolvido.PNG)
+![Laboratório solucionado](lab-resolvido.PNG)
 
 Após a execução da ação, o laboratório apresentou a mensagem de conclusão e o usuário `carlos` foi removido.
 
