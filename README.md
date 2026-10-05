@@ -167,7 +167,7 @@ Ambiente utilizado para realizar o laboratório em um cenário controlado.
 
 ### 1. Login e interceptação
 
-![Login e interceptação](login-interceptado.PNG)
+![Login e interceptação](login-interceptada.PNG)
 
 Primeiro, foi realizado o login com o usuário fornecido pelo laboratório e a requisição foi interceptada pelo Burp Suite.
 
